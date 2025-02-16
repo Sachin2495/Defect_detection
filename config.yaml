@@ -1,0 +1,7 @@
+data:
+  raw_data_path: '../data/notebooks'
+  processed_data_path: '../data/processed'
+  train_images_path: '../data/raw/train_images'
+
+model:
+  model_path: '../models/defect_detection_model.pth'
